@@ -1,0 +1,7 @@
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\bin\Debug\GreedyMotifSearch.exe.config
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\bin\Debug\GreedyMotifSearch.exe
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\bin\Debug\GreedyMotifSearch.pdb
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\obj\Debug\GreedyMotifSearch.csprojAssemblyReference.cache
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\obj\Debug\GreedyMotifSearch.csproj.CoreCompileInputs.cache
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\obj\Debug\GreedyMotifSearch.exe
+C:\Users\Raptor\source\repos\GreedyMotifSearch\GreedyMotifSearch\obj\Debug\GreedyMotifSearch.pdb

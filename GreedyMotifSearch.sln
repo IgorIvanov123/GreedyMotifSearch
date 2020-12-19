@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyMotifSearch", "GreedyMotifSearch\GreedyMotifSearch.csproj", "{EBFF904D-3A0D-47DB-8EC7-E45836C3C1E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A264DB91-352E-4CA5-9D7D-A1C9E564F632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBFF904D-3A0D-47DB-8EC7-E45836C3C1E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFF904D-3A0D-47DB-8EC7-E45836C3C1E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFF904D-3A0D-47DB-8EC7-E45836C3C1E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFF904D-3A0D-47DB-8EC7-E45836C3C1E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A264DB91-352E-4CA5-9D7D-A1C9E564F632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A264DB91-352E-4CA5-9D7D-A1C9E564F632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A264DB91-352E-4CA5-9D7D-A1C9E564F632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A264DB91-352E-4CA5-9D7D-A1C9E564F632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3465A5C-11D8-4C91-B58E-43A1081A8440}
+	EndGlobalSection
+EndGlobal
